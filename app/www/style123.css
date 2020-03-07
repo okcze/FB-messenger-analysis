@@ -1,0 +1,22 @@
+.counter, .counter1, .counter2
+{
+  font-size: 100px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.counter-box .far, .counter-box .fas
+{
+    font-size: 120px;
+
+}
+
+.counter-box
+{
+  text-align: center;
+}
+.fade-text, .fade-text1, .fade-text2
+{
+  padding-top: 0px;
+  margin-top: 0px;
+  display: none;
+}
