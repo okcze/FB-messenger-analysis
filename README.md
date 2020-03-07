@@ -1,5 +1,5 @@
 # FB-messenger-analysis
-Group project executed during studies with Ada Gąssowska and Wojciech Szczypek.
+Group project executed during studies with Ada Gąssowska and Wojciech Szczypek.\
 app working on sample data: https://piotrf.shinyapps.io/Messenger_visualization/
 ### Project aim
 Interactive visualization of personal fb messenger data in shiny app.
