@@ -3,6 +3,8 @@ Group project executed during studies with Ada Gąssowska and Wojciech Szczypek.
 app working on sample data: https://piotrf.shinyapps.io/Messenger_visualization/
 ### Project aim
 Interactive visualization of personal fb messenger data in shiny app.
+### Screenshot from app
+![screen](https://github.com/okcze/FB-messenger-analysis/blob/master/screen.png)
 ### How does it work?
 After downloading data from our facebook account this app will allow us to create interactive visualization of our messenger analysis.
 - python script: collects and filter data from downloaded data dump, creates a data frame as csv file
